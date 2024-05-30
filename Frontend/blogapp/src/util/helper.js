@@ -1,0 +1,1 @@
+export const backendimage = "http://localhost:5001/Images"
